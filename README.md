@@ -134,7 +134,7 @@ ISC
 
 ## 👤 Autor
 
-[Tu nombre aquí]
+Jhoiner Martinez
 
 ## 🤝 Contribuciones
 
